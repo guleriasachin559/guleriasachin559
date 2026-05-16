@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Sachin Guleria</h1>
-<h3 align="center">Test Automation Engineer( SDET 1)</h3>
+<h3 align="center">Test Automation Engineer( SDET 2)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramoddutta&label=Profile%20views&color=0e75b6&style=flat" alt="pramoddutta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramoddutta" alt="SachinGuleria" /></a> </p>
 
-- 🌱  I’m currently working on Cypress , JavaScript, Cucumber BDD, **Bounteous Project as a SDET Roles**
+- 🌱  I’m currently working on Cypress , JavaScript, Cucumber BDD, **Coforge Project as a Senior SDET Roles**
 
-- 👯 I’m looking to collaborate on **Bounteous Project as a SDET Roles**
+- 👯 I’m looking to collaborate on **Coforge Project as a SDET Roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/guleriasachin559](https://github.com/guleriasachin559).
 
 - 💬 Ask me about **Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured, Karate, Gatling**
 
-- 📫 How to reach me **sachinguleria556@gmail.com**
+- 📫 How to reach me **sachinguleria559@gmail.com**
 
 - 📄 Know about my experiences [http://linkedin.com/in/sachin-guleriaa](www.linkedin.com/in/sachin-guleriaa)
 
